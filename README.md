@@ -1,2 +1,2 @@
 # aula01
-usado para aula
+criado para exercício em aula
