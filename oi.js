@@ -1,1 +1,4 @@
-oi
+function(){
+
+    alert("oi");
+}
